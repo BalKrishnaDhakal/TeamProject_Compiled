@@ -1,0 +1,208 @@
+﻿
+.bal_Container {
+    padding-top: 100px;
+    max-width: 1080px;
+    margin: auto;
+}
+
+    .bal_Container p {
+        text-align: center;
+    }
+
+.card {
+    box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
+
+    .card p {
+        text-align: center;
+    }
+
+    .card h3 {
+        text-align: center;
+    }
+
+.title {
+    font-size: 18px;
+    text-align: center;
+}
+
+.text-center {
+    padding-top: 20px;
+}
+
+.contactButton {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+}
+
+.bal_Container a {
+    text-decoration: none;
+}
+
+.bal_Container button:hover, a:hover {
+    opacity: 0.7;
+}
+
+.contactButton:hover {
+    opacity: 0.7;
+}
+
+.bal_Container img {
+    padding-top: 5px;
+}
+
+.lstBtn {
+    margin-bottom: 50px;
+}
+
+.form-group {
+    padding-left: 30px;
+    background-color: #e6e6e6;
+    padding-top: 10px;
+}
+
+.lastMsg {
+    padding-top: 20px;
+    margin-bottom: 200px;
+    margin-left: 30px;
+    padding-bottom: 20px;
+}
+
+#map {
+    padding-right: 20px;
+}
+
+.faicons {
+    position: relative;
+    height: 8em;
+    width: 20em;
+    text-align: center;
+    padding-top: 100px;
+}
+
+    .faicons li {
+        display: block;
+        height: 4em;
+        line-height: 4em;
+        margin: -2.2em;
+        position: absolute;
+        -webkit-transition: -webkit-transform .7s;
+        -moz-transition: -moz-transform .7s;
+        -o-transition: -o-transform .7s;
+        transition: transform 0.7s;
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        transform: rotate(45deg);
+        text-align: center;
+        width: 4em;
+    }
+
+    .faicons a {
+        color: #fffdf0;
+        display: block;
+        height: 4em;
+        line-height: 6em;
+        text-align: center;
+        -webkit-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+        width: 4em;
+    }
+
+    .faicons li:hover {
+        -webkit-transform: scale(1.3,1.3) rotate(-35deg);
+        -moz-transform: scale(1.3,1.3) rotate(-35deg);
+        -ms-transform: scale(1.3,1.3) rotate(-35deg);
+        -o-transform: scale(1.3,1.3) rotate(-35deg);
+        transform: scale(1.3,1.3) rotate(-35deg);
+    }
+
+.faspot_1 {
+    background: #1A85BC;
+    left: 0;
+    top: 50%;
+}
+
+.faspot_2 {
+    background: #02aaf8;
+    left: 25%;
+}
+
+.faspot_3 {
+    background: #5EA9DD;
+    left: 50%;
+    top: 50%;
+}
+
+.faspot_4 {
+    background: #DC4A38;
+    left: 75%;
+}
+
+.faspot_5 {
+    background: #FF4500;
+    left: 100%;
+    top: 50%;
+}
+
+.faspot_6 {
+    background: #000000;
+    left: 125%;
+}
+
+ul {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.inner-block-success {
+    overflow: hidden;
+    background-color: #178274;
+    margin-top: 25px;
+    color: white;
+    width: 325px;
+    box-shadow: 0px 2px 2px 2px rgba(0,0,0,0.2);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.inner-block-error {
+    overflow: hidden;
+    background-color: #00008B;
+    margin-top: 25px;
+    text-align: center;
+    width: 325px;
+    box-shadow: 0px 2px 2px 2px rgba(0,0,0,0.2);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-size: x-large;
+}
+
+.like {
+    overflow: hidden;
+    background-color: #F6F7F6;
+    margin-top: 50px;
+    margin-left: 200px;
+    width: 600px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: large;
+}
